@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33643
     wikipedia: http://fi.wikipedia.org/wiki/Kaarle_Halme
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29017#PurimossaViisin-yt-ksinen-n-ytelm-
 gutenberg_issued: '2009-06-01'
 gutenberg_type: Text
 identifiers:
