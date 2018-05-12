@@ -1,0 +1,27 @@
+_repo: PurimossaViisin-yt-ksinen-n-ytelm-_29017
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Halme, Kaarle
+    birthdate: 1864
+    deathdate: 1946
+    gutenberg_agent_id: '33643'
+    url: http://www.gutenberg.org/2009/agents/33643
+    wikipedia: http://fi.wikipedia.org/wiki/Kaarle_Halme
+description: ''
+gutenberg_issued: '2009-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29017'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish drama'
+- !lcc 'PH'
+title: 'Purimossa: Viisinäytöksinen näytelmä'
+url: http://www.gutenberg.org/ebooks/29017
